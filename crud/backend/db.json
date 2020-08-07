@@ -19,6 +19,11 @@
       "name": "Notebook Asus i5",
       "price": "2100.00",
       "id": 4
+    },
+    {
+      "name": "Galaxy S10 +",
+      "price": "3500.99",
+      "id": 5
     }
   ]
 }
