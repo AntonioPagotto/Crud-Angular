@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC",
+      "name": "Caneta BIC 2",
       "price": 9765.65
     },
     {
@@ -21,7 +21,7 @@
       "id": 4
     },
     {
-      "name": "Galaxy S10 +",
+      "name": "Galaxy S10 + 64gb",
       "price": "3500.99",
       "id": 5
     }
