@@ -1,19 +1,29 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta BIC",
-            "price": 5.65
-        },
-        {
-            "id": 2,
-            "name": "Notebook Dell",
-            "price": 1425.99   
-        },
-        {
-            "id": 3,
-            "name": "Galaxy A50",
-            "price": 1320.00  
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC 2",
+      "price": 9765.65
+    },
+    {
+      "id": 2,
+      "name": "Notebook Dell",
+      "price": 1425.99
+    },
+    {
+      "id": 3,
+      "name": "Galaxy A50",
+      "price": 1320
+    },
+    {
+      "name": "Notebook Asus i5",
+      "price": "2100.00",
+      "id": 4
+    },
+    {
+      "name": "Galaxy S10 + 64gb",
+      "price": "3500.99",
+      "id": 5
+    }
+  ]
 }
